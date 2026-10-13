@@ -1,0 +1,9 @@
+# render output and intermediate material - not part of the driver
+out/
+img/
+ref/
+fig1_check/
+*.bak
+*.png
+*.svg
+*.ai
